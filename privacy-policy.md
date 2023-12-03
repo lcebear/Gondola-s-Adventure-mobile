@@ -20,6 +20,9 @@ IP address
 Advertising identifiers
 For more details on Unity's data collection practices, please refer to their privacy policy.
 
+# Advertising
+The Game may display advertisements served by Google Ads. These ads may be tailored to your interests based on the information collected by Google. 
+
 # Children's Privacy
 We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
